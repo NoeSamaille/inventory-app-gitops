@@ -254,3 +254,4 @@ where:
 
 The command will prompt for a password. The grpc url and credentials can be retrieved
 from the `igc credentials` command
+test
